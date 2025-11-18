@@ -250,17 +250,4 @@ Contributions welcome! Please:
 
 ---
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file
-
----
-
-## 📞 Support
-
-- **Repository:** https://github.com/AjitKumar01/Saahayak
-- **Issues:** https://github.com/AjitKumar01/Saahayak/issues
-
----
-
 **Built with ❤️ for underserved communities across India**
